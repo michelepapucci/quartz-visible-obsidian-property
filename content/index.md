@@ -2,6 +2,7 @@
 title: Welcome to Quartz with FrontMatter Obsidian Property Shown!
 Property_test: Hey this is showing a property!
 Add_them_as_you_like: You can have as many as you wants!
+Live_demo: This a live demo of this Properties component self-hosted on GitHub!
 ---
 
 This is a blank Quartz with FrontMatter Obsidian Property Shown installation.
