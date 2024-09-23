@@ -7,12 +7,11 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+---
 
-## Sponsors
+This is a Fork of the original Quartz repository showcasing a custom component called Properties. 
+This is a fan project, I have no association with either Obsidian's nor Quartz's dev team. 
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Most of the code comes from [another user](https://github.com/natashayasi/quartz/commit/d42e0bcab0b234498a5e746b38dd6f903486babc) work for a simiar functionality that I simply perfected to my own taste. 
+
+A live demo of the Obsidian Properties shown in a Quartz pages can be found [here](https://michelepapucci.github.io/quartz-visible-obsidian-property/) with a little tutorial on how to install the component. 
